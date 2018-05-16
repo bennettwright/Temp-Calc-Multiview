@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempCalc-size-classes", "TempCalc-size-classes\TempCalc-size-classes.csproj", "{514390DC-2831-4269-9FDD-F1D260535F81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempCalc-muiltview", "TempCalc-size-classes\TempCalc-muiltview.csproj", "{514390DC-2831-4269-9FDD-F1D260535F81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
