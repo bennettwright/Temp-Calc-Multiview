@@ -25,6 +25,9 @@ namespace TempCalcsizeclasses
 			{
 				int result = (int)Math.Round(calculate.getHeatIndex(temp, humidity));
 				ResultLabel.Text = String.Format("Result: {0} F", result);
+
+				//make sure not all of them are zero (save memory)
+				if (!(temp == 0 && windspeed == 0 && result == 0))
 				CalculationHistoryController.AddData(String.Format("Temp: {0}, Humidity: {1}, Result: {2} F",
 			        temp, humidity, result));
 			}
@@ -120,11 +123,6 @@ namespace TempCalcsizeclasses
 
 		partial void AboutButton_TouchUpInside(UIButton sender)
 		{
-			UIView.BeginAnimations("My Animation");
-            UIView.SetAnimationDuration(0.5);
-            UIView.SetAnimationCurve(UIViewAnimationCurve.EaseInOut);
-            UIView.SetAnimationTransition(UIViewAnimationTransition.FlipFromLeft, forView: View, cache: true);
-
 			UIViewController controller = Storyboard.InstantiateViewController("AboutController");
 
 			NavigationController.PushViewController(controller, false);
