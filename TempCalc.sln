@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempCalc-size-classes", "TempCalc-size-classes\TempCalc-size-classes.csproj", "{514390DC-2831-4269-9FDD-F1D260535F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{514390DC-2831-4269-9FDD-F1D260535F81}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{514390DC-2831-4269-9FDD-F1D260535F81}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{514390DC-2831-4269-9FDD-F1D260535F81}.Release|iPhone.ActiveCfg = Release|iPhone
+		{514390DC-2831-4269-9FDD-F1D260535F81}.Release|iPhone.Build.0 = Release|iPhone
+		{514390DC-2831-4269-9FDD-F1D260535F81}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{514390DC-2831-4269-9FDD-F1D260535F81}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{514390DC-2831-4269-9FDD-F1D260535F81}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{514390DC-2831-4269-9FDD-F1D260535F81}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

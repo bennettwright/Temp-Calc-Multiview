@@ -1,0 +1,11 @@
+/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/bin/iPhoneSimulator/Release/TempCalc-size-classes.exe
+/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/bin/iPhoneSimulator/Release/TempCalc-size-classes.pdb
+/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/coremlc/_PartialAppManifest.items
+/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/optimized/
+/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/TempCalc-size-classes.csproj.CoreCompileInputs.cache
+/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/TempCalc-size-classes.exe
+/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/TempCalc-size-classes.pdb
