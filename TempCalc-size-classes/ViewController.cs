@@ -21,9 +21,12 @@ namespace TempCalcsizeclasses
 			double humidity = Double.Parse(HumidityField.Text);
 			int windspeed = (int)WindSlider.Value;
 
+			int result = HumiditySwitch.On ? (int)Math.Round(calculate.getHeatIndex(temp, humidity))
+						  : (int)Math.Round(calculate.getWindChill(temp, windspeed));
+
+
 			if (HumiditySwitch.On)
 			{
-				int result = (int)Math.Round(calculate.getHeatIndex(temp, humidity));
 				ResultLabel.Text = String.Format("Result: {0} F", result);
 
 				//make sure not all of them are zero (save memory)
@@ -34,7 +37,6 @@ namespace TempCalcsizeclasses
 
 			else
 			{            
-				int result = (int)Math.Round(calculate.getWindChill(temp, windspeed));
 				ResultLabel.Text = String.Format("Result: {0} F", result);
 
 				//make sure not all of them are zero (save memory)

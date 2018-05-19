@@ -1,15 +1,12 @@
 ﻿<Properties StartupConfiguration="{514390DC-2831-4269-9FDD-F1D260535F81}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TempCalc-size-classes/ViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TempCalc-size-classes/Main.storyboard">
     <Files>
-      <File FileName="TempCalc-size-classes/ViewController.cs" Line="5" Column="23" />
-      <File FileName="TempCalc-size-classes/Main.cs" Line="3" Column="29" />
+      <File FileName="TempCalc-size-classes/ViewController.cs" Line="26" Column="4" />
+      <File FileName="TempCalc-size-classes/Main.cs" Line="3" Column="30" />
       <File FileName="TempCalc-size-classes/Info.plist" />
-      <File FileName="TempCalc-size-classes/Entitlements.plist" />
-      <File FileName="TempCalc-size-classes/CalculationHistoryController.cs" Line="6" Column="29" />
-      <File FileName="TempCalc-size-classes/calculate.cs" Line="3" Column="1" />
-      <File FileName="TempCalc-size-classes/AppDelegate.cs" Line="4" Column="29" />
-      <File FileName="TempCalc-size-classes/AboutController.cs" Line="11" Column="10" />
-      <File FileName="TempCalc-size-classes/Main.storyboard" Line="1" Column="1" />
+      <File FileName="TempCalc-size-classes/CalculationHistoryController.cs" Line="27" Column="14" />
+      <File FileName="TempCalc-size-classes/calculate.cs" Line="49" Column="58" />
+      <File FileName="TempCalc-size-classes/Main.storyboard" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />

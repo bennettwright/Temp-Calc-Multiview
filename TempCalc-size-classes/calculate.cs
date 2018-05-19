@@ -46,11 +46,7 @@ namespace TempCalcsizeclasses
 				index -= ((13 - humidity) / 4) * Math.Sqrt((17 - Math.Abs(fTemp - 95)) / 17);
 
 			else if (humidity > 85 && fTemp > 80 && fTemp < 87)
-				index += ((humidity - 85) / 10) * ((87 - fTemp) / 5);
-
-
-
-
+				index += ((humidity - 85) / 10) * ((87 - fTemp) / 5);         
 
             return index;
         }

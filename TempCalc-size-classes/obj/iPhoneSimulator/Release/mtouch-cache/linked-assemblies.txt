@@ -1,8 +1,0 @@
-RemoveDynamicRegistrar:false
-/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/bin/iPhoneSimulator/Release/TempCalc-size-classes.app:/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/mtouch-cache/Link/TempCalc-size-classes.exe
-/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/bin/iPhoneSimulator/Release/TempCalc-size-classes.app:/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/mtouch-cache/Link/mscorlib.dll
-/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/bin/iPhoneSimulator/Release/TempCalc-size-classes.app:/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/mtouch-cache/Link/Xamarin.iOS.dll
-/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/bin/iPhoneSimulator/Release/TempCalc-size-classes.app:/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.dll
-/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/bin/iPhoneSimulator/Release/TempCalc-size-classes.app:/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/mtouch-cache/Link/Mono.Security.dll
-/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/bin/iPhoneSimulator/Release/TempCalc-size-classes.app:/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Xml.dll
-/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/bin/iPhoneSimulator/Release/TempCalc-size-classes.app:/Users/b/Projects/iOS/TempCalc/TempCalc-size-classes/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Core.dll
